@@ -402,4 +402,4 @@ py .\compare_2d.py desenho_antigo.tif desenho_novo.svg
 
 ## Licença
 
-Uso interno, acadêmico ou experimental. Adicione uma licença formal ao projeto antes de distribuir publicamente.
+Uso interno, acadêmico ou experimental.
